@@ -1,0 +1,22 @@
+{
+    "name": "redacteddevworks/preg_match2",
+    "description": "PHP Regex Matcher that returns the matched values",
+    "keywords": ["regex", "preg_match", "match"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kyle Harrison",
+            "email": "kharrison@redacteddevworks.ca",
+            "homepage": "http://redacteddevworks.ca"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "files": [
+            "./src/preg_match2.php",
+            "./src/preg_match2_all.php"
+        ]
+    }
+}
